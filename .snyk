@@ -9,3 +9,6 @@ patch:
   'npm:request:20160119':
     - codecov.io > request:
         patched: '2018-06-13T00:23:30.621Z'
+  'npm:http-signature:20150122':
+    - codecov.io > request > http-signature:
+        patched: '2018-07-03T00:25:32.051Z'
